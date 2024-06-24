@@ -23,7 +23,7 @@ This project is an arithmetic circuit compiler written in Rust, for educational 
 
 Clone the repository:
 
-    git clone https://github.com/your-username/rust-arith-circuit.git
+    git clone https://github.com/luishsr/rust-arith-circuit.git
     cd rust-arith-circuit
 
 ### Building
